@@ -48,7 +48,7 @@ ul{
     text-decoration: none;
 }
 
-div{
+.info{
     margin: 0px 20% 0px 20%;
 }
 
@@ -62,5 +62,5 @@ table {
 
 .footer{
     position: absolute;
-    bottom: 0;
+    bottom: 5px;
 }
