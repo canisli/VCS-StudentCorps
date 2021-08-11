@@ -47,6 +47,19 @@ ul{
     line-height: 25px;
     text-decoration: none;
 }
+.button2 {
+    display: inline-block;
+    width: 120px;
+    height: 25px;
+    background: #A6605F;
+    padding: 8px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+}
 
 .info{
     margin: 0px 20% 0px 20%;
