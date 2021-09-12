@@ -74,6 +74,6 @@ table {
 }
 
 .footer{
-    position: absolute;
+    position: fixed;
     bottom: 5px;
 }
